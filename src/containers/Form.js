@@ -140,7 +140,6 @@ class Form extends React.Component {
 
   	render() {
     	const { classes } = this.props;
-		console.log(this.state)
 	    return (
 	      	<form className={classes.container} onSubmit={this.handleSubmit}>
 	        	<TextField
