@@ -1,0 +1,23 @@
+[
+	{
+		"name":"Milk 1%",
+		"img":"https://images.freshop.com/00093966000153/07ef5f829720822c45a4a67d4a30b8b3_medium.png",
+		"description": "Pasteurised homogenised semi-skimmed milk",
+		"price": "1.27",
+		"id": "qwer1123asd2131asfgh"
+	}, 
+	{
+		"name":"Cheese 67%",
+		"img":"http://static5.uk.businessinsider.com/image/594be0bee92b9420b318b3b4/why-swiss-cheese-has-those-mysterious-giant-holes.jpg",
+		"description": "The texture of this semi-soft cheese falls between soft and hard.",
+		"price": "15.63",
+		"id": "qwer11asd2asfr1213as3"
+	},
+	{
+		"name":"Yogurt",
+		"img":"https://images.freshop.com/00036632013569/2bab11faa4dfdc86fecb5a8483673982_medium.png",
+		"description": "The texture of this semi-soft cheese falls between soft and hard.",
+		"price": "15.63",
+		"id": "qwasd13123ser1123"
+	}
+]
